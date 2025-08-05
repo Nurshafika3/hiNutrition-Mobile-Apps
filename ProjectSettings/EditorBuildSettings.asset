@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/QuizMenu.unity
+    guid: ac4e05a434ff1434b87c122fd8998bec
+  - enabled: 1
+    path: Assets/Scenes/AR.unity
+    guid: 23e8d3ed3a7543447935f4eef7ad7d4c
+  - enabled: 1
+    path: Assets/Scenes/QuizNutrition.unity
+    guid: 5c4862fcf5dedd9499e9b75707bc2c88
+  - enabled: 1
+    path: Assets/Scenes/QuizFruity.unity
+    guid: 2ce670dd2d9b7e543b1947eca8170602
+  - enabled: 1
+    path: Assets/Scenes/AR2.unity
+    guid: 06f49716bce6b0c4eb410fc7b308f507
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b8e96827393deda48a5491456c9a5cfb, type: 2}

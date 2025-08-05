@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ricket" size="1.000000 0.558484" />
+    <ImageTarget name="obesity" size="1.000000 0.556752" />
+    <ImageTarget name="heart" size="1.000000 0.551525" />
+    <ImageTarget name="eyes" size="1.000000 0.549876" />
+    <ImageTarget name="anemia" size="1.000000 0.551668" />
+  </Tracking>
+</QCARConfig>

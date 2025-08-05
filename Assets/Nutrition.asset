@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85814a4fe9399274ea85260ba84640d3, type: 3}
+  m_Name: Nutrition
+  m_EditorClassIdentifier: 
+  category: Nutrition
+  questions:
+  - questionText: Which vitamin is found in oranges and helps keep you healthy?
+    replies:
+    - Vitamin C
+    - Vitamin D
+    - Vitamin A
+    - Vitamin B12
+    correctReplyIndex: 0
+    questionImage: {fileID: 21300000, guid: d6676f2847bf29a419b9dff818d9cc42, type: 3}
+  - questionText: Which food is a good source of protein?
+    replies:
+    - Chocolate
+    - Cake
+    - Chicken
+    - Candy
+    correctReplyIndex: 2
+    questionImage: {fileID: 21300000, guid: 788b5ec0fe9586444b12661350d703da, type: 3}
+  - questionText: Which food should you eat to get strong bones?
+    replies:
+    - Chips
+    - Soda
+    - Candy
+    - Milk
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: 39febeff2fe0bf64c94e9e3bb74943d7, type: 3}
+  - questionText: What is healthy snack?
+    replies:
+    - A cookie
+    - An apple
+    - A donut
+    - A soda
+    correctReplyIndex: 1
+    questionImage: {fileID: 21300000, guid: b50431d7d700147469c2c171963fd484, type: 3}
+  - questionText: Which is a healthy drink?
+    replies:
+    - Water
+    - Soda
+    - Energy drink
+    - Sweet drink
+    correctReplyIndex: 0
+    questionImage: {fileID: 21300000, guid: a95a9a926c40f094ab1e2137f35e12a7, type: 3}
