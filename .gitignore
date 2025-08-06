@@ -57,6 +57,10 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# Large files that exceed GitHub's limit
+Assets/HumanHeart_FBX.fbx
+Packages/com.ptc.vuforia.engine-10.28.4.tgz
+
 # Crashlytics generated file
 crashlytics-build.properties
 
